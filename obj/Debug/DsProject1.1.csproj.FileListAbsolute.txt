@@ -1,0 +1,7 @@
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProject1.1\DsProject1.1\bin\Debug\DsProject1.1.exe.config
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProject1.1\DsProject1.1\bin\Debug\DsProject1.1.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProject1.1\DsProject1.1\bin\Debug\DsProject1.1.pdb
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProject1.1\DsProject1.1\obj\Debug\DsProject1.1.csproj.AssemblyReference.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProject1.1\DsProject1.1\obj\Debug\DsProject1.1.csproj.CoreCompileInputs.cache
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProject1.1\DsProject1.1\obj\Debug\DsProject1.1.exe
+C:\Users\YASİN ÖZKURT\Source\Repos\DsProject1.1\DsProject1.1\obj\Debug\DsProject1.1.pdb
